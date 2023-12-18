@@ -17,8 +17,10 @@ using System;
            //evenodd evenodd = new evenodd();
          
             // evenodd.Dispaly();
-            _2multiply _2Multiply = new _2multiply();
-            _2Multiply.Display();
+           // _2multiply _2Multiply = new _2multiply();
+           // _2Multiply.Display();
+           Divide divide = new Divide();
+            divide.Display();
         }
       
     }
