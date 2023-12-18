@@ -20,7 +20,7 @@ using System;
             _2multiply _2Multiply = new _2multiply();
             _2Multiply.Display();
         }
-        
+      
     }
 
 
