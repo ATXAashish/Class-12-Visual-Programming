@@ -19,8 +19,15 @@ using System;
             // evenodd.Dispaly();
            // _2multiply _2Multiply = new _2multiply();
            // _2Multiply.Display();
-           Divide divide = new Divide();
-            divide.Display();
+          // Divide divide = new Divide();
+           // divide.Display();
+           //question4 question4 = new question4();
+            //question4.Display();
+           // question_5 question_5 = new question_5();
+           // question_5.Display();
+           question5 question5 = new question5();
+            question5.Display();
+
         }
       
     }
